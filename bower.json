@@ -23,10 +23,10 @@
     "tests"
   ],
   "dependencies": {
-    "app-layout": "PolymerLabs/app-layout#master",
-    "carbon-localize-behavior": "git@github.com:PolymerElements/carbon-localize-behavior.git",
-    "carbon-pouchdb": "git@github.com:PolymerElements/carbon-pouchdb.git",
-    "carbon-route": "PolymerElements/carbon-route#^0.8.0",
-    "carbon-storage": "git@github.com:PolymerElements/carbon-storage.git"
+    "app-layout": "PolymerElements/app-layout#master",
+    "app-localize-behavior": "git@github.com:PolymerElements/app-localize-behavior.git",
+    "app-pouchdb": "git@github.com:PolymerElements/app-pouchdb.git",
+    "app-route": "PolymerElements/app-route#^0.9.0",
+    "app-storage": "git@github.com:PolymerElements/app-storage.git"
   }
 }
