@@ -1,4 +1,4 @@
-_[Demo and API docs](https://elements.polymer-project.org/elements/app-elements)_
+_[Demo and API docs](https://elements.polymer-project.org/browse?package=app-elements)_
 
 # app-elements
 
