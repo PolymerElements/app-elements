@@ -11,7 +11,8 @@
   "keywords": [
     "web-components",
     "polymer",
-    "app"
+    "app",
+    "element-collection"
   ],
   "license": "http://polymer.github.io/LICENSE.txt",
   "private": true,
