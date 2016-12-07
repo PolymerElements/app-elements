@@ -1,6 +1,6 @@
 {
   "name": "app-elements",
-  "version": "0.10.1",
+  "version": "2.0.0",
   "homepage": "https://github.com/PolymerElements/app-elements",
   "authors": [
     "The Polymer Authors"
@@ -24,10 +24,21 @@
     "tests"
   ],
   "dependencies": {
-    "app-layout": "PolymerElements/app-layout#^0.10.0",
-    "app-localize-behavior": "PolymerElements/app-localize-behavior#^0.10.0",
-    "app-pouchdb": "PolymerElements/app-pouchdb#^0.9.0",
-    "app-route": "PolymerElements/app-route#^0.9.0",
-    "app-storage": "PolymerElements/app-storage#^0.9.0"
+    "app-layout": "PolymerElements/app-layout#2.0-preview",
+    "app-localize-behavior": "PolymerElements/app-localize-behavior#2.0-preview",
+    "app-pouchdb": "PolymerElements/app-pouchdb#2.0-preview",
+    "app-route": "PolymerElements/app-route#2.0-preview",
+    "app-storage": "PolymerElements/app-storage#2.0-preview"
+  },
+  "variants": {
+    "1.x": {
+      "dependencies": {
+        "app-layout": "PolymerElements/app-layout#^0.10.0",
+        "app-localize-behavior": "PolymerElements/app-localize-behavior#^0.10.0",
+        "app-pouchdb": "PolymerElements/app-pouchdb#^0.9.0",
+        "app-route": "PolymerElements/app-route#^0.9.0",
+        "app-storage": "PolymerElements/app-storage#^0.9.0"
+      }
+    }
   }
 }
